@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @J0hnArren
-- 👀 I’m interested in Data Science, Data Analytics 
-- 🌱 I’m currently learning machine learning
+- 👀 I’m interested in Data Science & Data Analytics 
+- 🌱 I’m currently learning ML, DL, SQL
 - 💞️ I’m looking to collaborate on data science projects
 - 📫 rauf.parchiev@gmail.com
 
